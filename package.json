@@ -1,16 +1,16 @@
 {
-"name": "linegame168",
-"theme": "linegame168",
-"version": "3.5.8",
-"description": "linegame168 ทางเข้าเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
-"keywords": [
-"linegame168",
-"linegame168 เครดิตฟรี",
-"linegame168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/linegame168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "linegame168",
+  "theme": "linegame168",
+  "version": "3.6.0",
+  "description": "linegame168 ทางเข้าเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
+  "keywords": [
+    "linegame168",
+    "linegame168 เครดิตฟรี",
+    "linegame168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/linegame168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
